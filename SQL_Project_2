@@ -1,0 +1,77 @@
+#Arash_Hosseini
+
+create database University_db;
+------------------------------
+
+create table University_db.person(
+
+ID int auto_increment not null primary key ,
+First_Name nvarchar(50) not null,
+Last_Name nvarchar(50) not null,
+NID varchar(10) not null
+);
+
+create table University_db.major(
+ID int auto_increment not null primary key,
+major_name varchar(10),
+branch varchar(10)
+);
+
+create table University_db.student(
+ID int auto_increment not null primary key ,
+person_ID int not null,
+major_ID int,
+entery int,
+student_code varchar(10) not null
+);
+
+create table University_db.teacher(
+ID int auto_increment not null primary key ,
+person_ID int not null,
+grade int,
+teacher_code varchar(10) not null
+);
+
+
+--------------------------------------------------------------------------------------
+insert into university_db.person(First_Name,Last_Name,NID) values 
+('arash','hosseini',1111111111),
+('reza','rezaii',2222222222),
+('akbar','akbari',3333333333),
+('hasan','hosseini',4444444444),
+('ahmad','ahmadi',5555555555),
+('nima','nimaii',6666666666),
+('milad','miladi',7777777777);
+
+
+insert into university_db.major(major_name,branch) values
+('computer','software'),
+('computer','hardware'),
+('computer','network'),
+('electronic','electronic'),
+('it','security');
+
+
+insert into university_db.student(person_ID,major_ID,entery,student_code) values
+(1,1,961,'9611111111'),
+(3,2,962,'9621111111'),
+(5,3,971,'9711111111');
+
+
+insert into university_db.teacher(person_ID,grade,teacher_code) values
+(2,1,'123581321'),
+(4,2,'135791113');
+
+--------------------------------------------------------------------------------------
+
+select * from university_db.person join university_db.student
+on person.id=student.person_ID;
+
+select * from university_db.person left join university_db.student
+on person.id=student.person_ID;
+
+select * from university_db.student right join university_db.major 
+on major.id=student.major_ID;
+
+select * from university_db.person full join university_db.student
+on student.person_ID=person.id;
