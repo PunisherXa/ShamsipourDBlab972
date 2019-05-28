@@ -1,4 +1,4 @@
-#Ali Najimi
+#Arash_Hosseini
 ------------------------------------
 drop database University_db;
 drop table University_db.person;
@@ -46,7 +46,7 @@ foreign key (person_ID) references university_db.person(id)
 
 --------------------------------------------------------------------------------------
 insert into university_db.person(First_Name,Last_Name,NID) values 
-('ali','najimi',1111111111),
+('arash','hosseini',1111111111),
 ('reza','rezaii',2222222222),
 ('akbar','akbari',3333333333),
 ('hasan','hosseini',4444444444),
