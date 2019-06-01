@@ -1,0 +1,129 @@
+C:\Users\INFINITY\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Insert_player.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Main.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\INFINITY\Desktop\Project\Project\bin\Debug\football_DB.mdf
+C:\Users\INFINITY\Desktop\Project\Project\bin\Debug\football_DB_log.ldf
+C:\Users\INFINITY\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\INFINITY\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Insert_team.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Insert_game.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Insert_goal.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.search.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Sign_in.resources
+C:\Users\INFINITY\Desktop\Project\Project\obj\Debug\Project.Log_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\bin\Debug\Project.exe.config
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\bin\Debug\football_DB.mdf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\bin\Debug\football_DB_log.ldf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\bin\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\bin\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Insert_game.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Insert_goal.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Insert_player.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Insert_team.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Log_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Main.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Properties.Resources.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.search.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.Sign_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\Project - With Reg & Log\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\bin\Debug\Project.exe.config
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.exe
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.pdb
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\bin\Debug\football_DB.mdf
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\bin\Debug\football_DB_log.ldf
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\bin\Debug\Project.exe
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\bin\Debug\Project.pdb
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Insert_game.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Insert_goal.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Insert_player.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Insert_team.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Log_in.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Main.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.search.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.Sign_in.resources
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\INFINITY\Desktop\Project - Login & Register Designed\Project\obj\Debug\Project.exe.licenses
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Insert_game.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Insert_goal.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Insert_player.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Insert_team.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Log_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Main.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Properties.Resources.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.search.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.Sign_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\obj\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\bin\Debug\Project.exe.config
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\bin\Debug\football_DB.mdf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\bin\Debug\football_DB_log.ldf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\bin\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - Login & Register Designed(Fixed)\Project\bin\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\bin\Debug\Project.exe.config
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\bin\Debug\football_DB.mdf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\bin\Debug\football_DB_log.ldf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\bin\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\bin\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_game.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_goal.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_player.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_team.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Log_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Main.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Properties.Resources.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.search.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.Sign_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Project - With Reg & Log\New (Ok Log and Reg)\Project - login & register & main Designed\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\bin\Debug\Project.exe.config
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.exe
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.pdb
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\bin\Debug\football_DB.mdf
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\bin\Debug\football_DB_log.ldf
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\bin\Debug\Project.exe
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\bin\Debug\Project.pdb
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_game.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_goal.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_player.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Insert_team.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Log_in.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Main.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.search.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Sign_in.resources
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\INFINITY\Desktop\Project - login & register & main Designed\Project\obj\Debug\Project.Delete_form.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\bin\Debug\Project.exe.config
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\bin\Debug\football_DB.mdf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\bin\Debug\football_DB_log.ldf
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\bin\Debug\Project.exe
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\bin\Debug\Project.pdb
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Delete_form.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Insert_game.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Insert_goal.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Insert_player.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Insert_team.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Log_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Main.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Properties.Resources.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.search.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.Sign_in.resources
+E:\PV\MySelf\Projects (University)\4\Paygah Dade (Presntation)\Paygah Proj\Updated Rank And Points\Project - (L,R,D,R,P)\Project\obj\Debug\Project.csproj.GenerateResource.Cache
